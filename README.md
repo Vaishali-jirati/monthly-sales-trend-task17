@@ -5,7 +5,7 @@ Summarised sales by month for the Sample Superstore Orders data (2023 to 2026, 4
 and visualised the trend with a line chart in Excel.
 
 ## Workbook structure
-- data: original Orders data
+- data:  Orders data
 - summary: monthly table, line chart and findings
 
 ## Method
